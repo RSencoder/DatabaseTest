@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">DatabaseTest</string>
+    <string name="txt_room">Use Google Room</string>
+    <string name="btn_add">Add</string>
+    <string name="btn_select">Select</string>
+    <string name="btn_delete">Delete</string>
+    <string name="txt_SQLiteOpenHelper">Use Android SQLiteOpenHelper</string>
+    <string name="btn_create_database">Create Database</string>
+    <string name="btn_update">Update</string>
+</resources>
